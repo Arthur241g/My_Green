@@ -1,19 +1,19 @@
 # Welcome to My Green Wordpress
-***
+Welcome to my Green_Wordpress_project
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem is to create and work on the subject RENEWABLE ENERGY and the challenge is to success to create this site on Wordpress with +3 pages and links in and out of the site.
 
 ## Description
-TODO - How have you solved the problem?
+For to solve this problem, i've searched to unsderstand in first the subject and after this i've start my project on Wordpress.com with a count free and the stay was just to design and write the page and articles on the site.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No need Installation for this project.
 
 ## Usage
-TODO - How does it work?
+he work with :
 ```
-./my_project argument1 argument2
+./my_project Wordpress_url.txt
 ```
 
 ### The Core Team
